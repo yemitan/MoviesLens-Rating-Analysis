@@ -1,5 +1,5 @@
 # MoviesLens-Rating-Analysis
-# Derive and Visualize the following insights
+# Derive and Visualize the following insights:
 ## How many movies are there per genre?
 ## How many genres do movies have?
 ## How many awesome 'masala' movies to watch?
